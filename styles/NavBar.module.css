@@ -1,0 +1,22 @@
+.navbar {
+  height: 80px;
+  background-color: #9964ff;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-left: 9px;
+}
+
+.boton {
+  font-size: large;
+  font-weight: bold;
+  padding: 9px;
+  margin: 9px;
+  background-color: #9964ff;
+  border: 2px solid #612ea1;
+  color: #faf8f0;
+}
+
+.boton:hover {
+  background-color: #612ea1;
+}

@@ -1,0 +1,18 @@
+.padre {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.hijolight {
+  margin-top: 200px;
+  padding: 150px;
+  border: 2px solid #612ea1;
+}
+.hijodark {
+  margin-top: 200px;
+  padding: 150px;
+  background-color: #612ea1;
+  border: 2px solid #9964ff;
+  color: #faf8f0;
+}
