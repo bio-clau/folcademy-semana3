@@ -1,14 +1,17 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<img  src="https://raw.githubusercontent.com/bio-clau/folcademy-semana3/main/public/folcademy-logo.png" atl="hello world"/>
 
-## Getting Started
 
-First, run the development server:
+## Semana 03 - Entrenamiento Front End React
+
+### Primeros Pasos
+
+Luego de clonar el repo, deben correr el comando:
 
 ```bash
-npm run dev
-# or
-yarn dev
+npm i
 ```
+
+
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
