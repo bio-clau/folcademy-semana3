@@ -4,7 +4,7 @@
 
 ### Primeros Pasos
 
-Luego de clonar el repo, deben correr el comando:
+Luego de forkear y clonar el repo, deben correr el comando:
 
 ```bash
 npm i
