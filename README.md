@@ -12,7 +12,7 @@ o
 yarn add
 ```
 
-Para intalar las dependencias necesarias.
+Para instalar las dependencias necesarias.
 
 ### Levantar el proyecto
 
